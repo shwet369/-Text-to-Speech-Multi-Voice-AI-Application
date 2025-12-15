@@ -1,22 +1,20 @@
 
-
----
-
+```md
 # 🎤 Text-to-Speech Multi-Voice AI Application
 
-This project is a **Text-to-Speech (TTS) web application** built using **Python and Streamlit**.
+This project is a **Text-to-Speech (TTS) web application** built using **Python and Streamlit**.  
 It converts user-provided text into **natural, human-like speech** using **Microsoft Edge Neural Voices**.
 
 ---
 
 ## 🚀 Features
 
-* 🗣️ Convert text into high-quality AI speech
-* 👨‍🦱👩‍🦱 Multiple voices (Male / Female)
-* 🌍 Multi-language support
-* 🎚️ Adjustable speech **speed** and **pitch**
-* 🔊 Real-time audio playback
-* 🌐 Clean web-based UI using **Streamlit**
+- 🗣️ Convert text into high-quality AI speech  
+- 👨‍🦱👩‍🦱 Multiple voices (Male / Female)  
+- 🌍 Multi-language support  
+- 🎚️ Adjustable speech **speed** and **pitch**  
+- 🔊 Real-time audio playback  
+- 🌐 Clean web-based UI using **Streamlit**
 
 ---
 
@@ -24,28 +22,29 @@ It converts user-provided text into **natural, human-like speech** using **Micro
 
 👉 **Watch the demo video on LinkedIn**
 
-
-<img width="1920" height="1020" alt="Text to voice project - Google Chrome 14-12-2025 20_39_24" src="https://github.com/user-attachments/assets/c682e902-63cd-4a17-b0f5-b48f6725d54d" />](https://www.linkedin.com/posts/shweta-bhoyar-datascience_python-ai-texttospeech-activity-7405962197996392448-wtao)
+[![Text to Speech Multi Voice AI Demo](https://github.com/user-attachments/assets/c682e902-63cd-4a17-b0f5-b48f6725d54d)](https://www.linkedin.com/posts/shweta-bhoyar-datascience_python-ai-texttospeech-activity-7405962197996392448-wtao)
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Python**
-* **Streamlit**
-* **edge-tts** (Microsoft Edge Neural Voices)
-* **asyncio**
-* **ngrok** (for public access during development)
+- **Python**
+- **Streamlit**
+- **edge-tts** (Microsoft Edge Neural Voices)
+- **asyncio**
+- **ngrok** (for public access during development)
 
 ---
 
 ## 📂 Project Structure
 
 ```
+
 ├── app.py
 ├── requirements.txt
 ├── README.md
-```
+
+````
 
 ---
 
@@ -55,7 +54,7 @@ It converts user-provided text into **natural, human-like speech** using **Micro
 
 ```bash
 pip install -r requirements.txt
-```
+````
 
 ### 2️⃣ Run the Streamlit App
 
@@ -94,7 +93,8 @@ To run this project on **Google Colab**, use **ngrok** or **localtunnel** to exp
 **Shweta Bhoyar**
 Aspiring Data Scientist | AI & ML Enthusiast
 
-🔗 LinkedIn: [https://www.linkedin.com/in/shweta-bhoyar-datascience](https://www.linkedin.com/in/shweta-bhoyar-datascience)
+🔗 LinkedIn:
+[https://www.linkedin.com/in/shweta-bhoyar-datascience](https://www.linkedin.com/in/shweta-bhoyar-datascience)
 
 ---
 
@@ -114,8 +114,6 @@ Initial commit: Added multi-voice text-to-speech Streamlit application using edg
 
 ## 🔹 GitHub Topics (for Better Reach)
 
-Add these topics in your GitHub repository:
-
 ```
 python
 text-to-speech
@@ -126,6 +124,7 @@ edge-tts
 machine-learning
 ```
 
----
+
+
 
 
