@@ -1,5 +1,3 @@
-
-```md
 # 🎤 Text-to-Speech Multi-Voice AI Application
 
 This project is a **Text-to-Speech (TTS) web application** built using **Python and Streamlit**.  
@@ -38,13 +36,9 @@ It converts user-provided text into **natural, human-like speech** using **Micro
 
 ## 📂 Project Structure
 
-```
-
 ├── app.py
 ├── requirements.txt
 ├── README.md
-
-````
 
 ---
 
@@ -52,79 +46,38 @@ It converts user-provided text into **natural, human-like speech** using **Micro
 
 ### 1️⃣ Install Dependencies
 
+
+
 ```bash
 pip install -r requirements.txt
-````
-
-### 2️⃣ Run the Streamlit App
-
-```bash
+2️⃣ Run the Streamlit App
+bash
+Copy code
 streamlit run app.py
-```
+🌐 Running on Google Colab (Optional)
+To run this project on Google Colab, use ngrok or localtunnel to expose the Streamlit app publicly.
 
----
+🎯 Use Cases
+🎬 Voiceovers for videos & reels
 
-## 🌐 Running on Google Colab (Optional)
+♿ Accessibility tools
 
-To run this project on **Google Colab**, use **ngrok** or **localtunnel** to expose the Streamlit app publicly.
+✍️ Content creation & narration
 
----
+🌎 Language learning & practice
 
-## 🎯 Use Cases
+📌 Future Improvements
+Emotion-based voices (happy, sad, angry, formal)
 
-* 🎬 Voiceovers for videos & reels
-* ♿ Accessibility tools
-* ✍️ Content creation & narration
-* 🌎 Language learning & practice
+Audio download button
 
----
+More languages & accents
 
-## 📌 Future Improvements
+UI/UX enhancements
 
-* Emotion-based voices (happy, sad, angry, formal)
-* Audio download button
-* More languages & accents
-* UI/UX enhancements
-
----
-
-## 👩‍💻 Author
-
-**Shweta Bhoyar**
+👩‍💻 Author
+Shweta Bhoyar
 Aspiring Data Scientist | AI & ML Enthusiast
 
 🔗 LinkedIn:
-[https://www.linkedin.com/in/shweta-bhoyar-datascience](https://www.linkedin.com/in/shweta-bhoyar-datascience)
-
----
-
-## 🔹 Short GitHub Repo Description
-
-🎤 A multi-voice Text-to-Speech AI web app built with Python & Streamlit using Microsoft Edge Neural Voices.
-
----
-
-## 🔹 GitHub Commit Message Example
-
-```
-Initial commit: Added multi-voice text-to-speech Streamlit application using edge-tts
-```
-
----
-
-## 🔹 GitHub Topics (for Better Reach)
-
-```
-python
-text-to-speech
-streamlit
-ai
-speech-synthesis
-edge-tts
-machine-learning
-```
-
-
-
-
-
+https://www.linkedin.com/in/shweta-bhoyar-datascience
