@@ -24,8 +24,8 @@ It converts user-provided text into **natural, human-like speech** using **Micro
 
 👉 **Watch the demo video on LinkedIn**
 
-[![Watch Demo](<img width="1920" height="1020" alt="Text to voice project - Google Chrome 14-12-2025 20_39_24" src="https://github.com/user-attachments/assets/047b2a33-3e09-4dd8-b9df-1cc98d91e6dc" />
-)](https://www.linkedin.com/posts/shweta-bhoyar-datascience_python-ai-texttospeech-activity-7405962197996392448-wtao)
+[![Watch Demo](https://github.com/user-attachments/assets/047b2a33-3e09-4dd8-b9df-1cc98d91e6dc)](https://www.linkedin.com/posts/shweta-bhoyar-datascience_python-ai-texttospeech-activity-7405962197996392448-wtao)
+
 
 ---
 
